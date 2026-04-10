@@ -1,0 +1,8 @@
+title: Thomas Karn
+description: Publications
+markdown: kramdown
+theme: jekyll-theme-modernist
+plugins:
+  - jekyll-seo-tag
+kramdown:
+  input: GFM
